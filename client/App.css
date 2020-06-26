@@ -1,0 +1,27 @@
+.App{
+    display: flex;
+    flex: 1;
+    height: 100vh;
+    width: 100%;
+    justify-content: center;
+    align-items: center; 
+    background: linear-gradient(90deg, rgba(100,108,130,1) 0%, rgba(51,125,139,0.036852240896358524) 100%);
+}
+.calc{
+    width: 35%;
+}
+button
+{  
+    height: 40px;
+    width: 110px;
+    justify-content: center;
+    align-items: center;
+    font-size: large;
+    
+}
+input{
+    outline: none;
+    width: 435px;
+    height:50px ;
+    font-size: large;
+}
